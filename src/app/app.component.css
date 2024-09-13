@@ -1,0 +1,312 @@
+.content {
+    width: 100%;
+    position: relative;
+    background-color: #281e5a;
+    height: 210px;
+}
+
+.codi-boton-home-menu-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    background-color: #f5f5f5;
+}
+.vector-icon {
+position: absolute;
+height: 21.43%;
+width: 2.08%;
+top: 39.29%;
+right: 4.2%;
+bottom: 39.29%;
+left: 93.71%;
+max-width: 100%;
+overflow: hidden;
+max-height: 100%;
+object-fit: contain;
+}
+.home-icon {
+position: absolute;
+height: 33.21%;
+width: 6.67%;
+top: 31.58%;
+right: 89.44%;
+bottom: 35.2%;
+left: 3.89%;
+max-width: 100%;
+overflow: hidden;
+max-height: 100%;
+}
+.label {
+position: absolute;
+width: 80.33%;
+top: 32.14%;
+left: 17.01%;
+letter-spacing: 0.1px;
+line-height: 20px;
+font-weight: 600;
+display: inline-block;
+}
+.codi-boton-home-menu {
+width: 100%;
+position: relative;
+height: 56px;
+text-align: left;
+font-size: 14px;
+color: #3c009f;
+font-family: Roboto;
+}
+.wifi-icon {
+width: 100%;
+position: relative;
+max-width: 100%;
+overflow: hidden;
+height: 16.8px;
+}
+
+.matas-javier-perez {
+position: absolute;
+top: 0px;
+left: 0px;
+letter-spacing: 0.25px;
+line-height: 20px;
+display: flex;
+align-items: center;
+width: 224px;
+height: 31px;
+}
+.datos-del-cliente {
+position: absolute;
+top: calc(50% - 15px);
+left: 22px;
+width: 224px;
+height: 31px;
+}
+.icon-toaste-info {
+position: absolute;
+top: 19px;
+left: 256px;
+width: 24px;
+height: 24px;
+}
+.label-text {
+position: absolute;
+width: 100%;
+top: 16.67%;
+left: 0px;
+line-height: 20px;
+font-weight: 500;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+.chip-cuenta {
+position: absolute;
+top: 17px;
+left: 292px;
+border-radius: 100px;
+background-color: #555;
+width: 129px;
+height: 30px;
+overflow: hidden;
+opacity: 0.8;
+text-align: center;
+color: #d4c4fa;
+}
+
+/* Estilo para header02 */
+.header02 {
+    width: 100%;
+    background-color: #262626;
+    height: 60px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 14px;
+    color: #fff;
+    font-family: Roboto;
+    margin: 0; /* Eliminar cualquier margen */
+    padding: 0; /* Eliminar cualquier relleno */
+    box-sizing: border-box;
+  }
+/* HEADER3 */
+.capital-federal-72 {
+    position: absolute;
+    top: 0px;
+    left: 32px;
+    letter-spacing: 0.25px;
+    line-height: 20px;
+    white-space: pre-wrap;
+    display: flex;
+    align-items: center;
+    width: 198px;
+    height: 28px;
+    }
+    .vector-icon {
+    position: absolute;
+    height: 88.21%;
+    width: 10.43%;
+    top: 7.14%;
+    right: 89.57%;
+    bottom: 4.64%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    }
+    .clima {
+    position: absolute;
+    top: 6px;
+    left: 529px;
+    width: 230px;
+    height: 28px;
+    }
+    .ltimo-diagnstico-1624 {
+    position: absolute;
+    top: 9px;
+    left: 0px;
+    letter-spacing: 0.25px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    width: 186px;
+    height: 23px;
+    }
+    .bell-icon {
+    position: absolute;
+    top: calc(50% - 12px);
+    left: calc(50% - 11px);
+    width: 21px;
+    height: 24px;
+    }
+    .group-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 50%;
+    background-color: #fe414d;
+    width: 12px;
+    height: 12px;
+    }
+    .b {
+    position: absolute;
+    top: 2px;
+    left: 3px;
+    letter-spacing: 0.25px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    width: 6px;
+    height: 8px;
+    }
+    .ellipse-parent {
+    position: absolute;
+    top: 20px;
+    left: 22px;
+    width: 12px;
+    height: 12px;
+    }
+    .bell {
+    position: absolute;
+    top: 0px;
+    left: 1003px;
+    width: 40px;
+    height: 40px;
+    overflow: hidden;
+    font-size: 10px;
+    }
+    .histrico-icon {
+    position: absolute;
+    top: 0px;
+    left: 959px;
+    width: 40px;
+    height: 40px;
+    overflow: hidden;
+    }
+    .accionables-header {
+    position: absolute;
+    top: 10px;
+    left: 23px;
+    width: 1043px;
+    height: 40px;
+    }
+    .vector-icon1 {
+    width: 16px;
+    position: relative;
+    height: 16px;
+    }
+    .label-text {
+    position: relative;
+    line-height: 20px;
+    font-weight: 500;
+    }
+    .state-layer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 24px 10px 16px;
+    gap: 8px;
+    }
+    .codibotonsecundario-negativoc {
+    position: absolute;
+    top: 9px;
+    left: 218px;
+    border-radius: 8px;
+    border: 1px solid #8a5cf2;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #b989f9;
+    }
+
+    .header03 {
+        background-color: #000;
+        color: #fff;
+        font-size: 14px;
+        font-family: Roboto;
+        clear: both; /* Asegura que no flota al lado de otro contenido */
+      }
+
+      .header02, .header03 {
+        width: 100%;
+        height: 60px;
+        position: relative;
+        margin: 0; /* Elimina márgenes */
+        padding: 0; /* Elimina rellenos */
+        overflow: hidden;
+        display: block; /* Asegura que actúan como bloques apilados */
+        box-sizing: border-box; /* Asegura que los paddings y bordes se incluyen en el ancho/alto */
+      }
+    
+      .datos-del-cliente, .accionables-header, .clima, .bell, .chip-cuenta {
+        margin: 0;  /* Elimina márgenes de los elementos internos */
+        padding: 0; /* Elimina rellenos de los elementos internos */
+      }
+      
+      .outagestatus {
+        width: 100%;
+        position: relative;
+        background-color: #b5efda;
+        height: 30px;
+        }
+
+        .sin-incidencias-masivas {
+            width: 536px;
+            position: relative;
+            font-size: 14px;
+            line-height: 17px;
+            text-transform: uppercase;
+            font-weight: 600;
+            font-family: Roboto;
+            color: #000;
+            text-align: left;
+            display: inline-block;
+            height: 23px;
+            text-indent: 10px;
+            }

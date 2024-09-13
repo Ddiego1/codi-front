@@ -10,4 +10,18 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'codiMockSH';
+  showPopup: boolean = false;
+
+  // Método para mostrar el popup
+  openPopup() {
+    this.showPopup = true;
+  }
+
+  // Método para cerrar el popup
+  closePopup(event: any) {
+    // Solo cerrar si se hace clic fuera del contenido del popup
+    if (event.target.id === 'popupDatosClienteContainer') {
+      this.showPopup = false;
+    }
+  }
 }
